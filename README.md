@@ -1,4 +1,11 @@
-# robocadSim
+<p align="center">
+  <a href="https://github.com/CrackAndDie/robocadSim/tree/robocadSim_v1.3">
+    <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="robocadSim logo" width="200" height="165">
+  </a>
+</p>
+
+<h1 align="center">robocadSim</h1>
+
 **About:** RobocadSim is tricycle robot simulator. You can program the robots in all available languages (now available: C#)  
   
 **Getting started:**
