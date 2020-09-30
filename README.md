@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/CrackAndDie/robocadSim/tree/robocadSim_v1.3">
-    <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="robocadSim logo" width="200" height="165">
+    <img src="https://github.com/CrackAndDie/robocadSim/blob/master/res/Logo_4_alpha.png" alt="robocadSim logo" width="200" height="200">
   </a>
 </p>
 
