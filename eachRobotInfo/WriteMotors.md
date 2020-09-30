@@ -1,6 +1,6 @@
 <h1> RobocadSim.<em>[Chosen robot]</em>.WriteMotors(float R, float L, float B)  </h1>
   
-<h3><em>WriteMotors function is used to transmit speed to robot  </em></h3>
+<strong>WriteMotors</strong> function is used to transmit speed to robot  
   
 <h2><strong> Inputs: </strong></h2> 
 <strong><em>R: </em></strong>Speed to right motor  
