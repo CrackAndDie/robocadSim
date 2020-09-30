@@ -10,4 +10,6 @@
 <strong><em>Null</em></strong> 
 
 <h2><strong> Additional info: </strong></h2>
-<h4>Robots with the function: RE21, RE21mini</h4>
+<ul>
+<li><h4>Robots with the function: RE21, RE21mini</h4></li>
+</ul>
