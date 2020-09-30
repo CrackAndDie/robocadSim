@@ -4,7 +4,9 @@
   
 <h2><strong> Inputs: </strong></h2> 
 <strong><em>R: </em></strong>Speed to right motor  
+
 <strong><em>L: </em></strong>Speed to left motor  
+
 <strong><em>B: </em></strong>Speed to back motor  
   
 <h2><strong> Output: </strong></h2>
