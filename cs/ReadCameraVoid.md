@@ -1,6 +1,9 @@
 <h1> RobocadSim.<em>[Chosen robot]</em>.ReadCameraVoid()  </h1>
   
 <strong>ReadCameraVoid</strong> function is used to read camera from robot to variables:  
+<ul>
+  <li><strong>RobocadSim.<em>[Chosen robot]</em>.imageFromCamera</strong></li> 
+</ul>
   
 <h2><strong> Inputs: </strong></h2>  
 <strong><em>Null</em></strong>
