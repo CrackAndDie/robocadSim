@@ -18,5 +18,5 @@
 
 <h2><strong> Additional info: </strong></h2>
 <ul>
-<li><strong>Robots with the function: RE21mini</strong></li>
+<li><strong>-</strong></li>
 </ul>
