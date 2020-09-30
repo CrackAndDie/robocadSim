@@ -1,6 +1,13 @@
 <h1> RobocadSim.<em>[Chosen robot]</em>.WriteResetVoid()  </h1>
   
 <strong>WriteResetVoid</strong> function is used to transmit 'resets' to robot from variables:  
+<ul>
+  <li><strong>RobocadSim.<em>[Chosen robot]</em>.resetEncRight</strong></li> 
+  <li><strong>RobocadSim.<em>[Chosen robot]</em>.resetEncLeft</strong></li>
+  <li><strong>RobocadSim.<em>[Chosen robot]</em>.resetEncBack</strong></li>
+  <li><strong>RobocadSim.<em>[Chosen robot]</em>.resetEncLift</strong></li>
+  <li><strong>RobocadSim.<em>[Chosen robot]</em>.resetGyro</strong></li>
+</ul>
   
 <h2><strong> Inputs: </strong></h2> 
 <strong><em>Null</em></strong>
