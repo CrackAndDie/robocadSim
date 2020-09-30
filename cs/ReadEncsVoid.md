@@ -1,7 +1,13 @@
 <h1> RobocadSim.<em>[Chosen robot]</em>.ReadEncsVoid()  </h1>
   
 <strong>ReadEncsVoid</strong> function is used to read encoders values from robot to variables:  
-  
+<ul>
+  <li><strong>RobocadSim.<em>[Chosen robot]</em>.encRight</strong></li> 
+  <li><strong>RobocadSim.<em>[Chosen robot]</em>.encLeft</strong></li>
+  <li><strong>RobocadSim.<em>[Chosen robot]</em>.encBack</strong></li>
+  <li><strong>RobocadSim.<em>[Chosen robot]</em>.encLift</strong></li>
+</ul>
+
 <h2><strong> Inputs: </strong></h2>  
 <strong><em>Null</em></strong>
   
