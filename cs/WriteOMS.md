@@ -1,6 +1,6 @@
 <h1> RobocadSim.<em>[Chosen robot]</em>.WriteOMS(float Lift, float Big, float Small)  </h1>
   
-<strong>WriteMotors</strong> function is used to transmit actions of OMS to robot  
+<strong>WriteOMS</strong> function is used to transmit actions of OMS to robot  
   
 <h2><strong> Inputs: </strong></h2> 
 <strong><em>Lift: </em></strong>Speed to lift motor  
