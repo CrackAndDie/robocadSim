@@ -13,6 +13,6 @@
 
 <h2><strong> Additional info: </strong></h2>
 <ul>
-<li><h4>Robots with the function: RE21, RE21mini</h4></li>
-<li><h4>Range of speed is from -50 to 50</h4></li>
+<li><strong>Robots with the function: RE21, RE21mini</strong></li>
+<li><strong>Range of speed is from -50 to 50</strong></li>
 </ul>
