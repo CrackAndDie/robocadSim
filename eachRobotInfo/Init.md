@@ -1,5 +1,5 @@
 
-<h1> RobocadSim.Chosen robot.Init(string path)  </h1>
+<h1> RobocadSim.<em>[Chosen robot]</em>.Init(string path)  </h1>
   
 <h3><em>Init function was created to gain access to communication channels with robot.  </em></h3>
   
