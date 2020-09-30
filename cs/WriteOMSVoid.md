@@ -1,6 +1,11 @@
 <h1> RobocadSim.<em>[Chosen robot]</em>.WriteOMSVoid()  </h1>
   
 <strong>WriteOMSVoid</strong> function is used to transmit actions of OMS to robot from variables:  
+<ul>
+  <li><strong>RobocadSim.<em>[Chosen robot]</em>.speedLift</strong></li> 
+  <li><strong>RobocadSim.<em>[Chosen robot]</em>.angleBig</strong></li>
+  <li><strong>RobocadSim.<em>[Chosen robot]</em>.dirSmall</strong></li>
+</ul>
   
 <h2><strong> Inputs: </strong></h2> 
 <strong><em>Null</em></strong> 
