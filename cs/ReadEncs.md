@@ -7,6 +7,12 @@
   
 <h2><strong> Output: </strong></h2>
 <strong><em>float[4] vec that includes:</em></strong> 
+<ul>
+  <li><strong>RightMotorEncoderValue</strong></li> 
+  <li><strong>LeftMotorEncoderValue</strong></li>
+  <li><strong>BackMotorEncoderValue</strong></li>
+  <li><strong>LiftMotorEncoderValue</strong></li>
+</ul>
 
 <h2><strong> Additional info: </strong></h2>
 <ul>
