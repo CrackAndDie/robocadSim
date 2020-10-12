@@ -1,4 +1,4 @@
-<h1> RobocadSim.<em>[Chosen robot]</em>.WriteReset(bool Right, bool Left, bool Back, bool Lift, bool Gyro)  </h1>
+<h1> RobocadSim.RE21mini.WriteReset(bool Right, bool Left, bool Back, bool Lift, bool Gyro)  </h1>
   
 <strong>WriteReset</strong> function is used to transmit 'resets' to robot  
   
@@ -15,6 +15,5 @@
 
 <h2><strong> Additional info: </strong></h2>
 <ul>
-<li><strong>Robots with the function: RE21mini, RE21</strong></li>
 <li><strong>You should write Your own gyro reset logic</strong></li>
 </ul>
