@@ -6,7 +6,7 @@
 <strong><em>Null</em></strong>
   
 <h2><strong> Output: </strong></h2>
-<strong><em>cv2' Mat obj img</em></strong> 
+<strong><em>numpy.ndarray img</em></strong> 
 
 <h2><strong> Additional info: </strong></h2>
 <ul>
