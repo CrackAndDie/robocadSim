@@ -1,4 +1,4 @@
-<h1> RobocadSim.<em>[Chosen robot]</em>.read_buttons()  </h1>
+<h1> RobocadSim.RE21mini.read_buttons()  </h1>
   
 <strong>read_buttons</strong> function is used to read buttons values from robot  
   
@@ -15,5 +15,5 @@
 
 <h2><strong> Additional info: </strong></h2>
 <ul>
-<li><strong>Robots with the function: RE21mini</strong></li>
+<li>-</li>
 </ul>
