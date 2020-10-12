@@ -8,3 +8,4 @@
 <h3> <strong>Documentations for libs:</strong></h3>
 
   + **C#:** [cs lib docs](https://github.com/CrackAndDie/robocadSim/tree/master/cs)  
+  + **Python:** [python lib docs](https://github.com/CrackAndDie/robocadSim/tree/master/py)
