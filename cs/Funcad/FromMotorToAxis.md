@@ -1,4 +1,4 @@
-<h1> RobocadSim.Funcad.FromMotorToAxis(float R, float L, float B)  </h1>
+<h1> RobocadSim.Funcad.FromMotorsToAxis(float R, float L, float B)  </h1>
   
 <strong>FromMotorToAxis</strong> function is used to remake motors speeds to axis' speeds  
   
