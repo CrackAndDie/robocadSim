@@ -1,4 +1,4 @@
-<h1> RobocadSim.<em>[Chosen robot]</em>.WriteMotors(float R, float L, float B)  </h1>
+<h1> RobocadSim.RE21mini.WriteMotors(float R, float L, float B)  </h1>
   
 <strong>WriteMotors</strong> function is used to transmit speed to robot  
   
@@ -13,6 +13,5 @@
 
 <h2><strong> Additional info: </strong></h2>
 <ul>
-<li><strong>Robots with the function: RE21, RE21mini</strong></li>
 <li><strong>Range of speed is from -50 to 50</strong></li>
 </ul>
