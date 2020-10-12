@@ -6,7 +6,7 @@
 
 <h1 align="center">robocadSim</h1>
 
-**About:** RobocadSim is tricycle robot simulator. You can program the robots in all available languages (now available: C#)  
+**About:** RobocadSim is tricycle robot simulator. You can program the robots in all available languages (now available: C#, Python)  
   
 **Getting started:**
   + Download latest version of robocadSim ([Latest Version](https://github.com/CrackAndDie/robocadSim/tree/robocadSim_v1.3))
