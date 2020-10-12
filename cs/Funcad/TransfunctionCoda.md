@@ -1,6 +1,6 @@
 <h1> RobocadSim.Funcad.TransfunctionCoda(float val, List<float> inArr, List<float> outArr)  </h1>
   
-<strong>TransfunctionCoda</strong> function is used to check that value is in a range  
+<strong>TransfunctionCoda</strong> function is used to remake value by outArr 
   
 <h2><strong> Inputs: </strong></h2>  
 <strong><em>val: </em></strong>Value to remake  
