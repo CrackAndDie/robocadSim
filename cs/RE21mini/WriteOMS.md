@@ -1,4 +1,4 @@
-<h1> RobocadSim.<em>[Chosen robot]</em>.WriteOMS(float Lift, float Big, float Small)  </h1>
+<h1> RobocadSim.RE21mini.WriteOMS(float Lift, float Big, float Small)  </h1>
   
 <strong>WriteOMS</strong> function is used to transmit actions of OMS to robot  
   
@@ -13,12 +13,10 @@
 
 <h2><strong> Additional info: </strong></h2>
 <ul>
-<li><strong>Robots with the function: RE21mini</strong></li>
 <li><strong>Range of speed is from -50 to 50</strong></li>
 <li><strong>Range of angles for big servo motors</strong></li>
 <ul>
   <li><strong>RE21mini range is from 1490 to 1750</strong></li>
-  <li><strong>RE21 range is from 1490 to 1700</strong></li>
 </ul>
 <li><strong>Direction of small servo rotation</strong></li>
 <ul>
