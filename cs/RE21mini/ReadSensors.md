@@ -1,4 +1,4 @@
-<h1> RobocadSim.<em>[Chosen robot]</em>.ReadSensors()  </h1>
+<h1> RobocadSim.RE21mini.ReadSensors()  </h1>
   
 <strong>ReadSensors</strong> function is used to read sensors values from robot  
   
@@ -6,7 +6,7 @@
 <strong><em>Null</em></strong>
   
 <h2><strong> Output: </strong></h2>
-<strong><em>float[5] vec that includes:</em></strong> 
+<strong><em>float[] arr that includes:</em></strong> 
 <ul>
   <li><strong>RightUltraSonic</strong></li> 
   <li><strong>LeftUltraSonic</strong></li>
@@ -17,5 +17,5 @@
 
 <h2><strong> Additional info: </strong></h2>
 <ul>
-<li><strong>Robots with the function: RE21mini, RE21</strong></li>
+<li>-</li>
 </ul>
