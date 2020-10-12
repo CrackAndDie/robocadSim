@@ -1,8 +1,8 @@
-<h1> RobocadSim.<em>[Chosen robot]</em>.ReadCameraVoid()  </h1>
+<h1> RobocadSim.RE21mini.ReadCameraVoid()  </h1>
   
 <strong>ReadCameraVoid</strong> function is used to read camera from robot to variables:  
 <ul>
-  <li><strong>RobocadSim.<em>[Chosen robot]</em>.imageFromCamera</strong></li> 
+  <li><strong>RobocadSim.RE21mini.imageFromCamera</strong></li> 
 </ul>
   
 <h2><strong> Inputs: </strong></h2>  
@@ -13,5 +13,5 @@
 
 <h2><strong> Additional info: </strong></h2>
 <ul>
-<li><strong>Robots with the function: RE21mini, RE21</strong></li>
+<li>-</li>
 </ul>
