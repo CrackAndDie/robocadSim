@@ -17,7 +17,7 @@
   + Turn on robot and run Your program!  
     
   **Found a bug or need for help? Contact me:**
-  + **Inst:** [robocadsim](https://www.instagram.com/robocadsim/)
-  + **Mail:** robocadsim@gmail.com
-  + **Facebook:** [RobocadSim](https://www.facebook.com/robocadsim/)
+  + Inst: [robocadsim](https://www.instagram.com/robocadsim/)
+  + Mail: robocadsim@gmail.com
+  + Facebook: [RobocadSim](https://www.facebook.com/robocadsim/)
 
