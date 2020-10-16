@@ -14,5 +14,10 @@
   + Run Your favorite code editor and add library of chosen language to Your project
     + C# library in path ./Lib/cs/
     + [Python library](https://pypi.org/project/robocadSimPy/) or 'pip install robocadSimPy' in cmd
-  + Turn on robot and run Your program!
+  + Turn on robot and run Your program!  
+    
+  **Found a bug or need for help? Contact me:**
+  + **Inst:** [robocadsim](https://www.instagram.com/robocadsim/)
+  + **Mail:** robocadsim@gmail.com
+  + **Facebook:** [RobocadSim](https://www.facebook.com/robocadsim/)
 
