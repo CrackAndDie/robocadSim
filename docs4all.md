@@ -3,6 +3,7 @@
 <ul>
   <li> <strong>Esc:</strong> open "pause" menu </li>  
   <li> <strong>LeftCtrl + E:</strong> open power panel </li>  
+  <li> <strong>LeftCtrl + D:</strong> open control panel </li>  
 </ul>
 
 <h3> <strong>Documentations for libs:</strong></h3>
