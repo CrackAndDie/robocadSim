@@ -8,6 +8,7 @@ There are 4 signs on the field and they may be:
   
 <h2>Turn Left:</h2>  
 
-For example, if You have **Turn Left** sign at the start You can move only like that:  
-
+For example, if You have **Turn Left** sign at the start You should move like that:  
 ![Turn Left Example 1](https://github.com/CrackAndDie/robocadSim/blob/master/res/left_example_1.png?raw=true "Turn Left Example 1")
+or like that:
+![Turn Left Example 2](https://github.com/CrackAndDie/robocadSim/blob/master/res/left_example_2.png?raw=true "Turn Left Example 2")
