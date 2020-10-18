@@ -32,3 +32,9 @@ and check next sign (red rect) if You need it.
 
 For example, if You have **Stop** sign at the start (green rect) You should stop in front of the sign and wait for 2 seconds. After that You can continue Your movement wherever You want. Example:  
 ![Move Forward Example 1](https://github.com/CrackAndDie/robocadSim/blob/master/res/stop_example_1.png?raw=true "Move Forward Example 1")  
+
+<h2>All signs:</h2>  
+
+Here is an example of movement when robot has to go to the Pine village and take containers from there:  
+![All signs Example 1](https://github.com/CrackAndDie/robocadSim/blob/master/res/all_signs_example_1.png?raw=true "All signs Example 1")  
+![All signs Example 2](https://github.com/CrackAndDie/robocadSim/blob/master/res/all_signs_example_2.png?raw=true "All signs Example 2")  
