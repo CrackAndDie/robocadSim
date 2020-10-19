@@ -3,8 +3,11 @@
     <img src="https://github.com/CrackAndDie/robocadSim/blob/master/res/Logo_4_alpha.png" alt="robocadSim logo" width="200" height="200">
   </a>
 </p>
-
 <h1 align="center">robocadSim</h1>
+<p align="center">
+  <img src="https://github.com/CrackAndDie/robocadSim/blob/master/res/python_logo.png" alt="robocadSim logo" width="40" height="40">
+  <img src="https://github.com/CrackAndDie/robocadSim/blob/master/res/csharp_logo.png" alt="robocadSim logo" width="44" height="44">
+</p>
 
 **About:** RobocadSim is tricycle robot simulator. You can program the robots in all available languages (now available: C#, Python)  
   
