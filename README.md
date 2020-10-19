@@ -4,12 +4,8 @@
   </a>
 </p>
 <h1 align="center">robocadSim</h1>
-<p align="center">
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_512x512.png" alt="robocadSim logo" width="40" height="40">
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_512x512.png" alt="robocadSim logo" width="40" height="40">
-</p>
 
-**About:** RobocadSim is tricycle robot simulator. You can program the robots in all available languages (now available: C#, Python)  
+**About:** RobocadSim is 3d robot simulator. 
   
 **Getting started:**
   + Download latest version of robocadSim ([Latest Version](https://github.com/CrackAndDie/robocadSim/tree/robocadSim_v1.3))
@@ -18,6 +14,14 @@
     + C# library in path ./Lib/cs/
     + [Python library](https://pypi.org/project/robocadSimPy/) or 'pip install robocadSimPy' in cmd
   + Turn on robot and run Your program!  
+    
+  **Available languages:**
+  
+<p>
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_512x512.png" alt="robocadSim logo" width="40" height="40">
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_512x512.png" alt="robocadSim logo" width="40" height="40">
+</p>
+
     
   **Found a bug or need for help? Contact me:**
   + Inst: [robocadsim](https://www.instagram.com/robocadsim/)
