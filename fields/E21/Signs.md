@@ -1,4 +1,4 @@
-<h1> Signs on E21 field</h1>  
+<h1> Signs on the E21 field</h1>  
   
 There are 4 signs on the field and they may be:
 + **Turn Left** sign
