@@ -10,3 +10,7 @@
 
   + **C#:** [cs lib docs](https://github.com/CrackAndDie/robocadSim/tree/master/cs)  
   + **Python:** [python lib docs](https://github.com/CrackAndDie/robocadSim/tree/master/py)
+
+<h3> <strong>Other docs:</strong></h3>
+
+  + **Docs for fields:** [fields docs](https://github.com/CrackAndDie/robocadSim/tree/master/fields)  
