@@ -6,7 +6,7 @@
 <h1 align="center">robocadSim</h1>
 <p align="center">
   <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_512x512.png" alt="robocadSim logo" width="40" height="40">
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_512x512.png" alt="robocadSim logo" width="44" height="44">
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_512x512.png" alt="robocadSim logo" width="40" height="40">
 </p>
 
 **About:** RobocadSim is tricycle robot simulator. You can program the robots in all available languages (now available: C#, Python)  
