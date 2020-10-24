@@ -18,8 +18,9 @@
   **Available languages:**
   
 <p>
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_512x512.png" alt="robocadSim logo" width="40" height="40">
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_512x512.png" alt="robocadSim logo" width="40" height="40">
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_512x512.png" alt="py logo" width="40" height="40">
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_512x512.png" alt="cs logo" width="40" height="40">
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_512x512.png" alt="cpp logo" width="40" height="40">
 </p>
 
     
