@@ -19,9 +19,9 @@
   **Available languages:**
   
 <p>
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_512x512.png" alt="py logo" width="40" height="40">
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_512x512.png" alt="cs logo" width="40" height="40">
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_512x512.png" alt="cpp logo" width="40" height="40">
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="py logo">
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_48x48.png" alt="cs logo">
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="cpp logo">
 </p>
 
     
