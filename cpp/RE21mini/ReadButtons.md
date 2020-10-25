@@ -6,7 +6,7 @@
 <strong><em>Null</em></strong>
   
 <h2><strong> Output: </strong></h2>
-<strong><em>bool[] arr that includes:</em></strong> 
+<strong><em>bool* arr that includes:</em></strong> 
 <ul>
   <li><strong>ButtonEMS value</strong></li> 
   <li><strong>ButtonStart value</strong></li>
