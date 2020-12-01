@@ -14,8 +14,6 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-import sphinx_rtd_theme
-
 # -- Project information -----------------------------------------------------
 
 project = 'robocadSim'
@@ -34,7 +32,6 @@ release = '1.3.5'
 extensions = [
     'sphinx_tabs.tabs',
     'sphinx_rtd_theme',
-    'sphinx.ext.intersphinx',
     'notfound.extension'
 ]
 
