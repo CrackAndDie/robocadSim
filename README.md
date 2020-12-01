@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/CrackAndDie/robocadSim/tree/robocadSim_v1.3">
-    <img src="https://github.com/CrackAndDie/robocadSim/blob/master/res/logos_and_icons/Logo_4_alpha.png" alt="robocadSim logo" width="200" height="200">
+    <img src="https://github.com/CrackAndDie/robocadSim/blob/main/res/logos_and_icons/Logo_4_alpha.png" alt="robocadSim logo" width="200" height="200">
   </a>
 </p>
 <h1 align="center">robocadSim</h1>
@@ -13,7 +13,7 @@
   + Run Your favorite code editor and add library of chosen language to Your project
     + C# library in path ./Lib/cs/
     + [Python library](https://pypi.org/project/robocadSimPy/) or 'pip install robocadSimPy' in cmd
-    + C++ library files in path ./Lib/cpp/ ([How to include](https://github.com/CrackAndDie/robocadSim/blob/master/cpp/how_to_include.md))
+    + C++ library files in path ./Lib/cpp/ ([How to include](https://github.com/CrackAndDie/robocadSim/blob/main/cpp/how_to_include.md))
   + Turn on robot and run Your program!  
     
   **Available languages:**
