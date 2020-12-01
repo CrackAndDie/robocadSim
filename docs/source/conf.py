@@ -14,6 +14,7 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
@@ -31,6 +32,10 @@ release = '1.3.5'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinx_tabs.tabs',
+    'sphinx_rtd_theme',
+    'sphinx.ext.intersphinx',
+    'notfound.extension'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -41,15 +46,40 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
+master_doc = 'index'
+
 
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = 'sphinx_rtd_theme'
+
+# Sidebar logo
+html_logo = "res/Logo_4_alpha.png"
+
+# URL favicon
+html_favicon = "res/site_logo.ico"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+
+html_theme_options = {
+        'collapse_navigation': True,
+        'sticky_navigation': False,
+        'titles_only': True
+}
+
+from sphinx.builders.html import StandaloneHTMLBuilder
+StandaloneHTMLBuilder.supported_image_types = [
+    'image/gif',
+    'image/png',
+    'image/jpg'
+]
+
+def setup(app):
+    app.add_css_file('css/cad_css.css')
