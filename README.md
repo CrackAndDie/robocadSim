@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">robocadSim</h1>
 
-**About:** robocadSim is 3D robot simulator. 
+**About:** robocadSim is a 3D robot simulator. 
   
 **Getting started:**
   + Download latest version of robocadSim ([Latest Version](https://github.com/CrackAndDie/robocadSim/tree/robocadSim_v1.3))
